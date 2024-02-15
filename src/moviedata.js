@@ -39,4 +39,14 @@ export const data = [
     //   "In the city of Khansaar, Raja Mannar plans to make his son, Vardharaja Mannar his successor, but Raja Mannar's ministers and advisors plan a coup d'état by hiring armies from Russia and Serbia to attack and kill Vardha and Raja. Vardha, along with his brother and a few trusted men, manage to escape from Khansaar. Vardha goes to his childhood best friend, Deva, who learns about his predicament and sets out to make him the undisputed successor of Khansaar.",
     link: "https://youtu.be/y6XCHpf2vp8?si=h99NmVh_MtUzKrGi",
   },
+  {
+    id: 5,
+    img: "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kPRb1mbVHGop0egQ7153y0lhzGL.jpg",
+    moviename: "Dunki (2023)",
+    release: "12/21/2023 ",
+    rating: "6.7/10",
+    description:
+      "Four friends from a sleepy little village in Punjab share a common dream: to go to England. Their problem is that they have neither the visa nor the ticket.",
+    link: "https://new.m4u.lol/number/14376",
+  },
 ];
