@@ -71,7 +71,7 @@ export const data = [
   },
   {
     id: "8",
-    img: "https://www.themoviedb.org/movie/634492-madame-web#",
+    img: "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
     moviename: "Madame Web (2024)",
     release: "02/16/2024",
     rating: "3.8",
