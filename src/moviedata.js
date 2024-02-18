@@ -57,6 +57,7 @@ export const data = [
     rating: "4.6/10",
     description:
       "A converted Muslim woman Fatima narrates her ordeal of how she once wanted to become a nurse but was abducted from her home and manipulated by religious vanguards and turned into an ISIS terrorist and landed in Afghanistan jail.",
+    link: "https://new.m4u.lol/number/1527",
   },
   {
     id: "7",
@@ -66,6 +67,7 @@ export const data = [
     rating: "02/09/2024",
     description:
       "A struggling local journalist begins a dogged investigation into harrowing cases of abuse being covered up at a shelter for young girls.",
+    link: "https://new.m4u.lol/number/17886",
   },
   {
     id: "",
