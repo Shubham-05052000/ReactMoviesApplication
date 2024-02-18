@@ -70,11 +70,33 @@ export const data = [
     link: "https://new.m4u.lol/number/17886",
   },
   {
-    id: "",
-    img: "",
-    moviename: "",
-    release: "",
-    rating: "",
-    description: "",
+    id: "8",
+    img: "https://www.themoviedb.org/movie/634492-madame-web#",
+    moviename: "Madame Web (2024)",
+    release: "02/16/2024",
+    rating: "3.8",
+    description:
+      "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+    link: "https://new.m4u.lol/number/18322",
+  },
+  {
+    id: "9",
+    img: "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lSVSRrXFI54UGBHR3UEOYyFWrnw.jpg",
+    moviename: "House of Ninjas (2024)",
+    release: "02/15/2024",
+    rating: "7.9/10",
+    description:
+      "Years after retiring from their formidable ninja lives, a dysfunctional family must return to shadowy missions to counteract a string of looming threats.",
+    link: "https://new.m4u.lol/number/18295",
+  },
+  {
+    id: "10",
+    img: "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+    moviename: "The Marvels (2023)",
+    release: "The Marvels (2023)",
+    rating: "6.3/10",
+    description:
+      "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. ",
+    link: "https://new.m4u.lol/number/12663",
   },
 ];
