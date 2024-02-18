@@ -10,7 +10,7 @@ export const data = [
     rating: "6.9/10",
   },
   {
-    id: 1,
+    id: 2,
     img: "https://preview.redd.it/guntur-kaaram-new-poster-v0-h7g4eqgt5yvb1.jpg?auto=webp&s=f0f774d081e3d85b7fb204637d32bfebfaeb0860",
     release: "28 April 2023",
     link: "https://new.m4u.lol/number/15897",
@@ -37,7 +37,7 @@ export const data = [
     rating: "6.8/10",
     description: "coming in hindi uploaded on 16feb",
     //   "In the city of Khansaar, Raja Mannar plans to make his son, Vardharaja Mannar his successor, but Raja Mannar's ministers and advisors plan a coup d'état by hiring armies from Russia and Serbia to attack and kill Vardha and Raja. Vardha, along with his brother and a few trusted men, manage to escape from Khansaar. Vardha goes to his childhood best friend, Deva, who learns about his predicament and sets out to make him the undisputed successor of Khansaar.",
-    link: "https://youtu.be/y6XCHpf2vp8?si=h99NmVh_MtUzKrGi",
+    link: "https://new.m4u.lol/number/14482",
   },
   {
     id: 5,
@@ -48,5 +48,31 @@ export const data = [
     description:
       "Four friends from a sleepy little village in Punjab share a common dream: to go to England. Their problem is that they have neither the visa nor the ticket.",
     link: "https://new.m4u.lol/number/14376",
+  },
+  {
+    id: "6",
+    img: "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/g70f3hwn5jPaNzqPssoa9unlawo.jpg",
+    moviename: "The Kerala Story (2023)",
+    release: "05/05/2023",
+    rating: "4.6/10",
+    description:
+      "A converted Muslim woman Fatima narrates her ordeal of how she once wanted to become a nurse but was abducted from her home and manipulated by religious vanguards and turned into an ISIS terrorist and landed in Afghanistan jail.",
+  },
+  {
+    id: "7",
+    img: "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2eCELoyf0l3njFKfn3oddo3JaRG.jpg",
+    moviename: "Bhakshak (2024)",
+    release: "4.1/10",
+    rating: "02/09/2024",
+    description:
+      "A struggling local journalist begins a dogged investigation into harrowing cases of abuse being covered up at a shelter for young girls.",
+  },
+  {
+    id: "",
+    img: "",
+    moviename: "",
+    release: "",
+    rating: "",
+    description: "",
   },
 ];

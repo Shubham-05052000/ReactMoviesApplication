@@ -6,20 +6,22 @@ import { data } from "../../moviedata";
 
 const MovieList = () => {
   const [movies, setMovies] = useState([]);
-  console.log(data);
-  //api calling
-  useEffect(() => {
-    fetchMovies();
-  }, []);
+  // console.log(data);
 
-  const fetchMovies = async () => {
-    const response = await fetch(
-      "https://api.themoviedb.org/3/movie/popular?api_key=384ce7302b249f55ba527c0c6852cfaf"
-    );
-    const data = await response.json();
-    console.log(data);
-    setMovies(data.results);
-  };
+  //=======================tmbd api =====================
+  //api calling
+  // useEffect(() => {
+  //   fetchMovies();
+  // }, []);
+
+  // const fetchMovies = async () => {
+  //   const response = await fetch(
+  //     "https://api.themoviedb.org/3/movie/popular?api_key=384ce7302b249f55ba527c0c6852cfaf"
+  //   );
+  //   const data = await response.json();
+  //   setMovies(data.results);
+  // };
+  //=======================tmbd api=====================
 
   return (
     <section className="movie_list">
